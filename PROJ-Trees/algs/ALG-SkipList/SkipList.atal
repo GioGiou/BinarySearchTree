@@ -1,0 +1,19 @@
+{
+  "Algorithm" : {	
+
+   "Name"           : "SkipList",
+   "ShortName"      : "algorithm_short_name",             
+   "Description"    : "algorithm_dascription",
+   "Author"         : "author_name",
+   "Date"           : "04, 2023",
+
+
+   "Language"       : "Java",
+  
+   "Presenters"     : [],
+
+   "AlgorithmDescHTML" : "algorithm.html",
+   "AlgorithmRefHTML"  : "references.html"
+
+  }
+} 

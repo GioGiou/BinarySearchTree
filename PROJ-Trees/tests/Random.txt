@@ -1,0 +1,16 @@
+Type0:test01:50:50:0:1 seed 0;50 insertRND;1 seed 0;50 findRND;1 nop:true
+Type0:test02:50:0:50:1 seed 0;50 insertRND;1 seed 0;50 deleteRND;1 nop:true
+Type0:test03:100:100:0:1 seed 0;100 insertRND;1 seed 0;100 findRND;1 nop:true
+Type0:test04:100:0:100:1 seed 0;100 insertRND;1 seed 0;100 deleteRND;1 nop:true
+Type0:test05:150:150:0:1 seed 0;150 insertRND;1 seed 0;150 findRND;1 nop:true
+Type0:test06:150:0:150:1 seed 0;150 insertRND;1 seed 0;150 deleteRND;1 nop:true
+Type0:test07:200:200:0:1 seed 0;200 insertRND;1 seed 0;200 findRND;1 nop:true
+Type0:test08:200:0:200:1 seed 0;200 insertRND;1 seed 0;200 deleteRND;1 nop:true
+Type0:test09:250:250:0:1 seed 0;250 insertRND;1 seed 0;250 findRND;1 nop:true
+Type0:test10:250:0:250:1 seed 0;250 insertRND;1 seed 0;250 deleteRND;1 nop:true
+Type0:test11:300:300:0:1 seed 0;300 insertRND;1 seed 0;300 findRND;1 nop:true
+Type0:test12:300:0:300:1 seed 0;300 insertRND;1 seed 0;300 deleteRND;1 nop:true
+Type0:test13:350:350:0:1 seed 0;350 insertRND;1 seed 0;350 findRND;1 nop:true
+Type0:test14:350:0:350:1 seed 0;350 insertRND;1 seed 0;350 deleteRND;1 nop:true
+Type0:test15:400:400:0:1 seed 0;400 insertRND;1 seed 0;400 findRND;1 nop:true
+Type0:test16:400:0:400:1 seed 0;400 insertRND;1 seed 0;400 deleteRND;1 nop:true
