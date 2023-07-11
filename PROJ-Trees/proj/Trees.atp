@@ -12,9 +12,6 @@
     "kTree"
   ],
   "TestSets": [
-    "TestSet1",
-    "Zaporedno",
-    "Test",
     "Random",
     "Sequential"
   ],
