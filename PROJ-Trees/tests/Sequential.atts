@@ -1,0 +1,13 @@
+{
+  "TestSet": {
+    "Name"             : "Sequential",
+
+    "ShortName"        : "testset_short_name",
+    "Description"      : "testset_description",
+    "N"                : "16",
+    "TestRepeat"       : "15",
+    "TimeLimit"        : "10",
+
+    "TestSetDescHTML"  : "Sequential.html"
+  }
+}

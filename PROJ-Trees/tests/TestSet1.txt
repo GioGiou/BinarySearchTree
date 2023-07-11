@@ -1,0 +1,23 @@
+Type0:test01:4:0:0:1 insert 5;1 insert 7;1 insert 3;1 insert 2;1 elements:2;3;5;7
+Type0:test02:4:0:1:1 insert 5;1 insert 7;1 insert 3;1 insert 2;1 delete 3;1 size:3
+Type0:test03:1000:0:1000:1000 insertRND;1000 deleteRND;1 nop:true
+Type0:test04:1000:0:990:1 seed 0;1000 insertRND;1 seed 0; 990 deleteRND;1 size:10
+Type0:test05:1000:0:0:1000 insertRND:true
+Type0:test06:2000:0:0:2000 insertRND:true
+Type0:test07:3000:0:0:3000 insertRND:true
+Type0:test08:4000:0:0:4000 insertRND:true
+Type0:test09:5000:0:0:5000 insertRND:true
+Type0:test10:6000:0:0:6000 insertRND:true
+Type0:test11:7000:0:0:7000 insertRND:true
+Type0:test12:8000:0:0:8000 insertRND:true
+Type0:test13:9000:0:0:9000 insertRND:true
+Type0:test14:10000:0:10000:1 seed 0;10000 insertRND;1 seed 0;10000 deleteRND;1 nop:true
+Type0:test15:20000:0:20000:1 seed 0;20000 insertRND;1 seed 0;20000 deleteRND;1 nop:true
+Type0:test16:30000:0:30000:1 seed 0;30000 insertRND;1 seed 0;30000 deleteRND;1 nop:true
+Type0:test17:40000:0:40000:1 seed 0;40000 insertRND;1 seed 0;40000 deleteRND;1 nop:true
+Type0:test18:50000:0:50000:1 seed 0;50000 insertRND;1 seed 0;50000 deleteRND;1 nop:true
+Type0:test19:1000:1000:0:1 seed 10;1000 insertRND;1 seed 10;1000 findRND;1 nop:true
+Type0:test20:2000:2000:0:1 seed 10;2000 insertRND;1 seed 10;2000 findRND;1 nop:true
+Type0:test21:3000:3000:0:1 seed 10;3000 insertRND;1 seed 10;3000 findRND;1 nop:true
+Type0:test22:4000:4000:0:1 seed 10;4000 insertRND;1 seed 10;4000 findRND;1 nop:true
+Type0:test23:5000:5000:0:1 seed 10;5000 insertRND;1 seed 10;5000 findRND;1 nop:true

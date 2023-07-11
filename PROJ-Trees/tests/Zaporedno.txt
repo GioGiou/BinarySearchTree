@@ -1,0 +1,21 @@
+Type0:test01:1000:0:0:1000 insertN:true
+Type0:test02:2000:0:0:2000 insertN:true
+Type0:test03:3000:0:0:3000 insertN:true
+Type0:test04:4000:0:0:4000 insertN:true
+Type0:test05:5000:0:0:5000 insertN:true
+Type0:test06:6000:0:0:6000 insertN:true
+Type0:test07:7000:0:0:7000 insertN:true
+Type0:test08:8000:0:0:8000 insertN:true
+Type0:test09:9000:0:0:9000 insertN:true
+Type0:test10:4:0:0:4 insertN;1 nop:true
+Type0:test11:4:0:1:5 insertN;1 deleteN;1 nop:true
+Type0:test12:10000:0:10000:10000 insertN;1 seed 0;10000 deleteN;1 nop:true
+Type0:test13:20000:0:20000:20000 insertN;1 seed 0;20000 deleteN;1 nop:true
+Type0:test14:30000:0:30000:30000 insertN;1 seed 0;30000 deleteN;1 nop:true
+Type0:test15:40000:0:40000:40000 insertN;1 seed 0;40000 deleteN;1 nop:true
+Type0:test16:50000:0:50000:50000 insertN;1 seed 0;50000 deleteN;1 nop:true
+Type0:test17:1000:1000:0:1000 insertN;1 seed 10;1000 findN;1 nop:true
+Type0:test18:2000:2000:0:2000 insertN;1 seed 10;2000 findN;1 nop:true
+Type0:test19:3000:3000:0:3000 insertN;1 seed 10;3000 findN;1 nop:true
+Type0:test20:4000:4000:0:4000 insertN;1 seed 10;4000 findN;1 nop:true
+Type0:test21:5000:5000:0:5000 insertN;1 seed 10;5000 findN;1 nop:true
